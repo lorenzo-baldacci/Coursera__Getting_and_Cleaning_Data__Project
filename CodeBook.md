@@ -3,7 +3,7 @@
 
 The file tidy_data.txt contains data from different human activities retrieved from accelerometer and gyroscope 3-axial raw signals. This dataset has been obtained by the original dataset available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip where some transformations have been applied. 
 
-The original data set contains the data and few files providing further info (README.txt) and detailed feature information (fature_info.txt).
+The original data set contains the data and few files providing further info (README.txt) and detailed feature information (feature_info.txt).
 
 THE DATASET (tidy_data.txt)
 ---------------------------
